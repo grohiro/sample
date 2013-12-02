@@ -1,4 +1,4 @@
-sample
+Sample
 ======
 
 my first repository
